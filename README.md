@@ -1,1 +1,2 @@
-# Capstone-Data-Science
+This is a Capstone project which was created as a part of the IBM Data Science Certification.The objective of this project is to analyse and select the most suitable locations in Bangalore for opening a new shopping mall .
+This project involves Web Scraping(Wikipedia page containing list of the neighbourhoods in Bangalore),working with Foursquare API,data cleaning, data wrangling, machine learning methods(K-means clustering),and data visualisation using Folium Package.
